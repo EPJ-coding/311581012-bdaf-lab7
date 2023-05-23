@@ -9,7 +9,7 @@ Write a test script that simulates two actors that do the following actions:
     - Bob withdraws all of USDC in the Compound USDC contract
 - Alice tries to withdraw, what happens here?
     - Alice gets a error " ERC20: transfer amount exceeds balance "
-- 
+
 # Implement
 ## Install
 With [npm](https://npmjs.org/) installed, run
@@ -26,4 +26,4 @@ With [npm](https://npmjs.org/) installed, run
     npx hardhat run --network hardhat scripts/test.js  
 
 ## Result
-![image]([picture or gif url](https://github.com/EPJ-coding/311581012-bdaf-lab7/blob/main/pictures/pic.jpg))
+![image](https://github.com/EPJ-coding/311581012-bdaf-lab7/blob/main/pictures/pic.jpg)
